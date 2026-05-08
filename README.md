@@ -6,7 +6,7 @@ This project contains my academic background, technical skills, and project high
 📍 **Live Link**: [View Resume](https://anushkaSri-04.github.io/Resume)
 ---
 ## 📌 About Me
-👩‍🎓 I'm a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Ramrao Adik Institute of Technology (RAIT), DY Patil University**. Passionate about leveraging data and technology to solve real-world problems, I'm on a journey to become a skilled **Data Scientist**.
+👩‍🎓 I'm a third-year B.Tech student in **Artificial Intelligence and Data Science** at **Ramrao Adik Institute of Technology (RAIT), DY Patil University**. Passionate about leveraging data and technology to solve real-world problems, I'm on a journey to become a skilled **Data Scientist**.
 ## 🛠️ Built With
 
 - **HTML5**
